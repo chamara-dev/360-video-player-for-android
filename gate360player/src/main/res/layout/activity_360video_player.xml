@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.demogate360player.SphericalPlayerActivity">
+    tools:context="com.example.gate360player.SphericalPlayerActivity">
 
     <!-- Initially hidden so we can control when the SurfaceTexture gets created -->
     <com.example.gate360player.SphericalVideoPlayer

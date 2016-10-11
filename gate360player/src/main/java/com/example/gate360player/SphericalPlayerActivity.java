@@ -13,7 +13,7 @@
  * under the License.
  */
 
-package com.example.demogate360player;
+package com.example.gate360player;
 
 import android.Manifest;
 import android.app.Activity;

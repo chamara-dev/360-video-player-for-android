@@ -14,7 +14,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".SphericalPlayerActivity"
+        <activity android:name="com.example.gate360player.SphericalPlayerActivity"
             android:hardwareAccelerated="true">
         </activity>
 
